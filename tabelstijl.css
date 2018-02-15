@@ -9,8 +9,8 @@
 }
 .menubalk a {
     float: left;
-    display: round;
-    color: #00FFFF;
+    display: block;
+    color: #0000EE;
     text-align: center;
     margin: 0px 50px 0px 0px;
     text-decoration: none;
