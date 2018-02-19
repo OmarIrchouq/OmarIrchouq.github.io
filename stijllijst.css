@@ -10,20 +10,20 @@
 .menubalk a {
     float: left;
     display: round;
-    color: #47006b;
+    color: #A03020;
     text-align: center;
     margin: 0px 50px 0px 0px;
     text-decoration: none;
 }
 background-color: #000000;
 .menubalk a:hover {
-    color: purple;
+    color: brown;
 }
 
 body {
   word-spacing: 3px;
   letter-spacing: 1px;
-  color: #47006b;
+  color: #A03020;
   background-color: #000000;
   background-image: url('https://bluesoul.files.wordpress.com/2012/10/basketball-as-soccer-248js062910.png');
   background-repeat: no-repeat;
@@ -31,22 +31,22 @@ body {
 
 h1 {
   margin: 0 30% 0 30%; /* links en rechts 30% marge, boven en onder geen marge  */
-  border: 4px solid purple;
+  border: 4px solid brown;
   border-radius: 20px 20px 20px 20px;
   font-weight: normal;
   font-style: italic;
   text-align: center;
-  color: #47006b;
+  color: #A03020;
   background-color: #000000;
 }
 
 h2 {
   margin: 0 30% 0 30%; /* links en rechts 30% marge, boven en onder geen marge  */
-  border: 4px solid purple;
+  border: 4px solid brown;
   border-radius: 20px 20px 20px 20px;
   font-weight: normal;
   font-style: italic;
   text-align: center;
-  color: #47006b;
+  color: #A03020;
   background-color: #000000;
 }
