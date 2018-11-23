@@ -1,2 +1,2 @@
-# OmarIrchouq.github.io
+# omarirchouq.github.io
 my first website
